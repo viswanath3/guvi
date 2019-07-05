@@ -1,3 +1,3 @@
-N,K=map(int,input().split())
-value=N**K
-print(value)
+num1,num2=map(int,input().split())
+val=num1**num2
+print(val)
