@@ -1,5 +1,5 @@
 def facto(i):
-   if i==1:
+   if i== 0 or 1:
    	   return 1
    else:
    	   return i*facto(i-1)
