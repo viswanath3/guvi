@@ -1,3 +1,3 @@
-i=list(input())
-i.append('.')
-print("".join(i)
+content=list(input())
+content.append('.')
+print("".join(content)
