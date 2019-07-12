@@ -1,0 +1,6 @@
+x,y = map(list,input().split())
+x[0] = x[0].upper()
+y[0] = y[0].upper()
+xstr = "".join(x)
+ystr = "".join(y)
+print(xstr,ystr)
