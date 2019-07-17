@@ -1,5 +1,5 @@
 def progresssion(a,b,c):
-    s =(/2)*((2*b)+(a-1)*c)
+    s =(a/2)*((2*b)+(a-1)*c)
     return int(s)
 
 x = list(map(int,input().split()))
